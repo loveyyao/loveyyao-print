@@ -1,7 +1,7 @@
 # LoveyyaoPrint web打印
 
 > 该打印依赖于`loveyyao-print`打印服务，使用先下载安装`loveyyao-print`打印服务。`loveyyao-print`详情[查看](https://github.com/loveyyao/loveyyao-electron-print)。
-> 服务启动后可以将自动连接，连接成功后可以使用。目前支持`jpg, png, pdf`等格式打印，后续会持续更新。
+> 服务启动后将自动连接，连接成功后可以使用。目前支持`jpg, png, pdf`等格式打印，后续会持续更新。
 
 ## 安装
 
