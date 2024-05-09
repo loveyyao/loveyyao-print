@@ -1,6 +1,6 @@
 {
   "name": "loveyyao-print",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "web端 PDF、图片等打印插件方案",
   "keywords": ["print", "pdf-print", "vue print"],
   "main": "src/index.js",
